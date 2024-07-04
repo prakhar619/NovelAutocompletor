@@ -10,5 +10,6 @@ Trained on the timeless texts of "Alice in Wonderland" by Lewis Carroll and "Fra
 4.  Text Autocompletion: Start typing a sentence, and LiteraryPredict will suggest completions based on the learned patterns from the classics.
 
 ## Acknowledgments
-1. The texts of "Alice in Wonderland" and "Frankenstein" are available in the public domain and were obtained from Project Gutenberg.
+1. This whole Project was inspired by Magnus Ekman's book Learning Deep Learning which provides the theory as well as implementation of this project. 
+2. The texts of "Alice in Wonderland" and "Frankenstein" are available in the public domain and were obtained from Project Gutenberg.
 2. This project is built using TensorFlow, an open-source machine learning framework by Google.
