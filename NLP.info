@@ -1,0 +1,15 @@
+Tensor Models:
+    Recurrent 
+    LSTM 
+    Transformer 
+
+Preprocessing:
+    OneHot 
+    WordEmbedding 
+
+Models:
+    n-gram 
+        bigram:     the more / more i / i learn / learn the/ the more/ more i 
+    skip-gram
+        k-skip-n-gram           (all of n-gram + skips)
+    
